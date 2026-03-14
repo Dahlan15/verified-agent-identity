@@ -33,4 +33,4 @@ jobs:
       - name: Link Human to Agent
         run: |
           node scripts/manualLinkHumanToAgent.js --challenge '{"name":"dahlan15","description":"dahlan15 AI Agent"}` 
-          gentgent
+          
